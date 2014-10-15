@@ -123,6 +123,10 @@ ul.posts {
     text-decoration:none
   }
 
+  #orange {
+    color: #F38630;
+  }
+
   .site .meta {
     color: #aaa;
   }
