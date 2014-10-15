@@ -1,0 +1,10 @@
+---
+layout: post
+title: Sample Post
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 Oct 2014 - Yogyakarta
+
+Ini adalah contoh post!
