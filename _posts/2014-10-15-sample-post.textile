@@ -1,10 +1,38 @@
 ---
 layout: post
-title: Sample Post
+title: What is Poetry: Opinion Rather Than Explanation. Complete With Twists
 ---
 
 h1. {{ page.title }}
 
 p(meta). 15 Oct 2014 - Yogyakarta
 
-Ini adalah contoh post! Test Git Windows
+*At Quick Glance*
+
+When we talk about poetry it is amazingly unavoidable to think that poetry is a wonderful language puzzle with a massive ending possibilities. These possibilities are unpredictable just like when your wife ask your opinion about her cooking. Well, you can always answer with something sweet and heartwarming or perhaps you could tell her "the truth". Well at least that will explain the meaning of the puzzle part.
+
+*Understanding Poetry*
+
+As for the "real" definition of poetry let us open our dictionary and look for a clue or two. You will come across something like this: “Poetry is.. Literary work in which the expression of feelings and ideas is given intensity by the use of distinctive style and rhythm.” (Oxford dictionary)
+
+Well that was... Deep. So, basically poetry is how we express our feelings and ideas with a bit of styles. Poetry as an entity, is made up of words just like the other literary works. But what makes it different from the other? Well, it is usually rendered musically, it is also have a far more meaning if we compared it with prose. With a pair that rhyme and are sometime of the same length. . These are some common rules that is actually not necessarily important. Poetry is all about how you can have a license to be free as in freedom. As in a dream, you can do almost anything, if not anything!
+
+Take a look at this: 
+
+"But only in their dreams can man be truly free. 'Twas always thus, and always thus will be."
+
+Big no! You can actually be free with your poems, dream it and make it true! As an example you can always start with a free verse, a kind of poem that pretty much ignore the rhyming processes.
+
+As it is what we called expression we can have our own way to make it real. Some people can explore their feelings but you may use your imagination or with a bit of everything and without nothingness to spare. Just like William Wordsworth point of view that poetry is "the spontaneous overflow of powerful feelings arising from ‘emotion recollected in tranquillity’."
+
+*Different Poet Makes Different Poem*
+
+As we have already know that every person have their own unique personality, poetry also have a unique characteristic depending on the writer's personality, style, mood and point of view. Poetry often used as a new way (*old new way) to protest something or someone. In the early middle age this kind of poetry is believed to have been popular. Yes, I’m talking about the infamous satirical poetry. Usually witty, and often very funny but the purpose of satire is not primarily humour but criticism of an event, an individual or a group in a clever manner. Satire is one of the many types of poetry.
+
+The existence of this kind of poetry in most case are the reason why poetry can be described as “words behind the word”. We can't actually understand the meaning of this kind of poetry if we don't understand the poet's purpose and what they are referring to. Complete understanding of the meaning behind those complicated words is sometime very difficult and frustrating. In fact, a careful examination of the clues laid by the poet may lead to more questions than answers. That is why It is far more difficult than just a simple paraphrase.
+
+*My Personal Opinion*
+
+So what is poetry? To actually answer that question is a bit too much. Depending on your perception there is a lot different definitions of poetry. At least I can say that poetry is the way I think, the way I see, the way I adjust my perception. It's not always consists of beautiful words. I can just write about ourself or someone else. When it comes to express my feeling, it is the best way of all and the safest way perhaps.
+
+For me poetry is when I saw a fragile leaf gracefully leaves its branch. Flying peacefully with the wind and finally lay and rest in the hand of lovely maiden. Everything that brings me smile, makes me sad, makes me laugh at loud, makes me yawn, it's not fun because I’m good at it but rather because I’m comfortable with it. At least that is what I can say about poetry. (for now)
