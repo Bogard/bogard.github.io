@@ -93,12 +93,12 @@ ul.posts {
 }
 
   .site .title a {
-    color: #a00;
+    color: black;
     text-decoration: none;
   }
 
   .site .title a:hover {
-    color: black;
+    color: #F38630;
   }
 
   .site .title a.extra {
@@ -111,18 +111,6 @@ ul.posts {
     color: black;
   }
 
-  .logo {
-    float:left;
-    height:50px;
-    padding:15px 15px;
-    font-size:18px;
-    line-height:20px
-    margin-bottom: 2em
-  }
-
-.logo:hover,.logo:focus {
-    text-decoration:none
-  }
 
   #orange {
     color: #F38630;
