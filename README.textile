@@ -1,4 +1,4 @@
-h1. This is the source my personal blog.
+h1. This is the source of my personal blog.
 
 It is based on mojombo's Jekyll.
 
