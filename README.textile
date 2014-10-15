@@ -1,2 +1,14 @@
-h1. This is the fork from mojombo page!
+h1. This is the source my personal blog.
+
+It is based on mojombo's Jekyll.
+
+h1. License
+
+The following directories and their contents are Copyright Bogar Ardiansyah. You may not reuse anything therein without my permission:
+
+    _posts/
+    images/
+
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
+
 
