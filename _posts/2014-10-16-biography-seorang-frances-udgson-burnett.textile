@@ -1,0 +1,16 @@
+---
+layout: post
+title: Biography Seorang Frances Hudgson Burnett
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 Oct 2014 - Yogyakarta
+
+Jika Anda adalah seorang penyuka literatur anak pastinya Anda sudah sangat familiar dengan author yang satu ini. Adalah seorang Frances Eliza Hudgson Burnett (24 November 1849 – 29 Oktober 1924) seorang dramawan (pengarang drama) serta penulis yang melatar balakangi kesuksesan tiga karya literatur anak yang sangat mendunia. Sebut saja Little Lord Fauntleroy (1886), A Little Princess (1905), and The Secret Garden (1909). Tiga buah karya yang sudah dianggap sebagai cerita anak paling populer di dunia.
+
+Frances Eliza Hodgson lahir pada 24 November 1849. Adalah putri ketiga dari Edwin Hodgson serta istrinya Eliza Boond, pemilik usaha toko dekorasi interior (?) yang berasal dari Doncaster, Yorkshire. Sepeninggal ayahnya, usaha keluarganya diambil alih oleh ibunya. Sayangnya usaha keluarga Hudgson gagal dan mengakibatkan krisis finansial yang memaksa mereka berimigrasi ke Amerika. Untuk kemudian keluarganya menetap di Knoxville, Tennessee pada tahun 1865.
+
+Dengan pamannya yang sudah terlebih dahulu tinggal di Amerika, keluarganya sangat berharap bisa memperoleh bantuan dari pamannya agar bisa memulai kehidupan yang baru. Namun situasi keluarganya menjadi jauh lebih genting ketika pamannya menolak untuk menolong mereka. Kehidupan keluarganya yang dulunya serba berkecukupan terpaksa harus berubah menjadi jauh lebih bersahaja. Karena itu Frances muda berusaha membantu pemasukan keluarga dengan memanfaatkan kecintaannya terhadap dunia cerita. Saking prihatinnya dia sampai harus mengumpulkan anggur liar yang dia jual untuk mendapatkan kertas dan tinta yang dia butuhkan untuk menulis cerita pertamanya. Pada masa dimana kebanyakan wanita tidak mempunyai karir, Frances mulai menulis cerita dengan judul Miss Carruthers’ Engagement dan Hearts and Diamonds yang dimuat di sebuah majalah perempuan bernama Godey’s Lady’s Book pada tahun 1868.
+
+_bersambung..._
