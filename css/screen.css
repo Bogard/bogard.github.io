@@ -111,6 +111,18 @@ ul.posts {
     color: black;
   }
 
+  .logo {
+    float:left;
+    height:50px;
+    padding:15px 15px;
+    font-size:18px;
+    line-height:20px
+  }
+
+.logo:hover,.logo:focus {
+    text-decoration:none
+  }
+
   .site .meta {
     color: #aaa;
   }
