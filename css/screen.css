@@ -111,6 +111,12 @@ ul.posts {
     color: black;
   }
 
+  .lang {
+    color: #aaa;
+    text-decoration: none;
+    margin-left: 1em;
+  }
+
 
   #orange {
     color: #F38630;
