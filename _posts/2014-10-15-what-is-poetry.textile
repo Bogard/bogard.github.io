@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Poetry: Opinion Rather Than Explanation. Complete With Twists
+title: What is Poetry? Opinion Rather Than Explanation. Complete With Twists
 ---
 
 h1. {{ page.title }}
@@ -11,7 +11,7 @@ p(meta). 15 Oct 2014 - Yogyakarta
 
 When we talk about poetry it is amazingly unavoidable to think that poetry is a wonderful language puzzle with a massive ending possibilities. These possibilities are unpredictable just like when your wife ask your opinion about her cooking. Well, you can always answer with something sweet and heartwarming or perhaps you could tell her "the truth". Well at least that will explain the meaning of the puzzle part.
 
-*Understanding Poetry
+*Understanding Poetry*
 
 As for the "real" definition of poetry let us open our dictionary and look for a clue or two. You will come across something like this: “Poetry is.. Literary work in which the expression of feelings and ideas is given intensity by the use of distinctive style and rhythm.” (Oxford dictionary)
 
