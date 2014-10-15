@@ -7,4 +7,4 @@ h1. {{ page.title }}
 
 p(meta). 15 Oct 2014 - Yogyakarta
 
-Ini adalah contoh post!
+Ini adalah contoh post! Test Git Windows
