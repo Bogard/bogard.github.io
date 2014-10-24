@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Bogard</title>
- <link href="http://bogard.github.io/atom.xml" rel="self"/>
- <link href="http://bogard.github.io/"/>
+ <link href="http://bogard.me/atom.xml" rel="self"/>
+ <link href="http://bogard.me/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://bogard.github.io//</id>
+ <id>http://bogard.me//</id>
  <author>
    <name>Bogar Ardiansyah</name>
    <email>bogar@oldventure.com</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://bogard.github.io{{ post.url }}"/>
+   <link href="http://bogard.me{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://bogard.github.io{{ post.id }}</id>
+   <id>http://bogard.me{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
