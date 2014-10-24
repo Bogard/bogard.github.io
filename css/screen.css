@@ -117,13 +117,8 @@ ul.posts {
     margin-left: 1em;
   }
 
-
   #orange {
     color: #F38630;
-  }
-
-  #orange a:hover a:focus{
-    color: black;
   }
 
   .site .meta {
