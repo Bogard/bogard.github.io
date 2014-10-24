@@ -122,6 +122,10 @@ ul.posts {
     color: #F38630;
   }
 
+  #orange a:hover a:focus{
+    color: black;
+  }
+
   .site .meta {
     color: #aaa;
   }
