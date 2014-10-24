@@ -35,15 +35,15 @@ p {
 }
 
 a {
-  color: #00a;
-}
-
-a:hover {
   color: black;
 }
 
+a:hover {
+  color: #F38630;
+}
+
 a:visited {
-  color: #a0a;
+  color: black;
 }
 
 table {
