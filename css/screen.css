@@ -42,10 +42,6 @@ a:hover {
   color: #F38630;
 }
 
-a:visited {
-  color: black;
-}
-
 a:focus {
   color: #F38630;
 }
@@ -144,7 +140,7 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: #F38630;
       }
 
     .site .footer .rss {
