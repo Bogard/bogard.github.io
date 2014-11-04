@@ -2,7 +2,7 @@
 layout: post
 title: Biografi Seorang Frances Hudgson Burnett
 description: Frances Eliza Hudgson Burnett adalah seorang dramawan serta penulis yang melatar balakangi kesuksesan tiga karya literatur anak yang sangat mendunia
-categories: Frances Hudgson Burnett
+categories: biography
 ---
 
 h1. {{ page.title }}

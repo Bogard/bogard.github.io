@@ -2,7 +2,7 @@
 layout: post
 title: What is Poetry? Opinion Rather Than Explanation. Complete With Twists 
 description: Poetry is a wonderful language puzzle with a massive ending possibilities.
-categories: what is poetry
+categories: poetry
 ---
 
 h1. {{ page.title }}
