@@ -1,7 +1,5 @@
 h1. This is the source of my personal blog.
 
-It is based on mojombo's Jekyll.
-
 h1. License
 
 The following directories and their contents are Copyright Bogar Ardiansyah. You may not reuse anything therein without my permission:
