@@ -119,6 +119,11 @@ ul.posts {
 
   #orange {
     color: #F38630;
+    font-size: 70px;
+  }
+
+  #jumbo-font {
+    font-size: 70px;
   }
 
   .site .meta {
