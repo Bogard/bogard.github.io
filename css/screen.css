@@ -210,11 +210,11 @@ ul.posts {
 
   #pages { /* Parent Wrapper for inside boxes */
 /*  display: inline; */ /* IE Hack */
-  width: 20em;
+  width: 12em;
   float: left;
   text-align: left;
   margin-right: 2em;
-  margin-top: 9em;
+  font-family: "Gill Sans";
   font-size: 11pt;
   text-align: right;
   border-right: 1px solid #ccc;
@@ -250,16 +250,16 @@ ul.posts {
   vertical-align: center;
 }
 
-ol.side-menu {
+ol.toc {
   list-style: none;
   padding: 0;
   margin: 0 0 2em 0;
 }
-ol.side-menu li {
+ol.toc li {
   padding: 0.3em 0 0.3em 0;
   margin: 0;
 }
-ol.side-menu li ol.side-menu {
+ol.toc li ol.toc {
   margin: 0;
   padding-left: 0.9em;
 }
